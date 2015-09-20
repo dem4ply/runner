@@ -3,13 +3,12 @@ using System.Collections;
 
 public class Destroy_spawner : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-	
+	void OnTriggerEnter2D( Collider2D colider ) {
+		Generic_object obj = colider.GetComponent<Generic_object>();
+		if ( obj != null ) {
+			Objects_pool.instance.push( obj );
+		}
+
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+
 }
