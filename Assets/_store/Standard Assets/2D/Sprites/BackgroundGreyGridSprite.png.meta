@@ -1,8 +1,14 @@
 fileFormatVersion: 2
 guid: cbbabe9e292f5604897926494bb38fef
+timeCreated: 1442224085
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: PrototypeGrey04x04
+    21300002: BackgroundGreyGridSprite_0
+    21300004: BackgroundGreyGridSprite_1
+    21300006: BackgroundGreyGridSprite_2
+    21300008: BackgroundGreyGridSprite_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -36,7 +42,8 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 6
@@ -47,7 +54,48 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: BackgroundGreyGridSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 512
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BackgroundGreyGridSprite_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 512
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BackgroundGreyGridSprite_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 512
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BackgroundGreyGridSprite_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
+  assetBundleVariant: 
