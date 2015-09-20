@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: feda0c18015b3284cabbc0da85254f9a
+timeCreated: 1442720430
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: RobotBoyWalk00
@@ -18,6 +20,22 @@ TextureImporter:
     21300026: RobotBoyWalk13
     21300028: RobotBoyWalk14
     21300030: RobotBoyWalk15
+    21300032: walk_0
+    21300034: walk_1
+    21300036: walk_2
+    21300038: walk_3
+    21300040: walk_4
+    21300042: walk_5
+    21300044: walk_6
+    21300046: walk_7
+    21300048: walk_8
+    21300050: walk_9
+    21300052: walk_10
+    21300054: walk_11
+    21300056: walk_12
+    21300058: walk_13
+    21300060: walk_14
+    21300062: walk_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -51,6 +69,7 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
@@ -65,21 +84,25 @@ TextureImporter:
     maxTextureSize: 1024
     textureFormat: -2
     compressionQuality: 100
+    allowsAlphaSplitting: 0
   - buildTarget: Android
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+    allowsAlphaSplitting: 0
   - buildTarget: BlackBerry
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+    allowsAlphaSplitting: 0
   - buildTarget: WP8
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+    allowsAlphaSplitting: 0
   spriteSheet:
     sprites:
-    - name: RobotBoyWalk00
+    - name: walk_0
       rect:
         serializedVersion: 2
         x: 0
@@ -87,9 +110,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk01
+    - name: walk_1
       rect:
         serializedVersion: 2
         x: 275
@@ -97,9 +120,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk02
+    - name: walk_2
       rect:
         serializedVersion: 2
         x: 550
@@ -107,9 +130,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk03
+    - name: walk_3
       rect:
         serializedVersion: 2
         x: 825
@@ -117,9 +140,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk04
+    - name: walk_4
       rect:
         serializedVersion: 2
         x: 1100
@@ -127,9 +150,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk05
+    - name: walk_5
       rect:
         serializedVersion: 2
         x: 1375
@@ -137,9 +160,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk06
+    - name: walk_6
       rect:
         serializedVersion: 2
         x: 1650
@@ -147,9 +170,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk07
+    - name: walk_7
       rect:
         serializedVersion: 2
         x: 0
@@ -157,9 +180,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk08
+    - name: walk_8
       rect:
         serializedVersion: 2
         x: 275
@@ -167,9 +190,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk09
+    - name: walk_9
       rect:
         serializedVersion: 2
         x: 550
@@ -177,9 +200,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk10
+    - name: walk_10
       rect:
         serializedVersion: 2
         x: 825
@@ -187,9 +210,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk11
+    - name: walk_11
       rect:
         serializedVersion: 2
         x: 1100
@@ -197,9 +220,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk12
+    - name: walk_12
       rect:
         serializedVersion: 2
         x: 1375
@@ -207,19 +230,19 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk13
+    - name: walk_13
       rect:
         serializedVersion: 2
-        x: 1652
+        x: 1650
         y: 1498
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk14
+    - name: walk_14
       rect:
         serializedVersion: 2
         x: 0
@@ -227,9 +250,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyWalk15
+    - name: walk_15
       rect:
         serializedVersion: 2
         x: 275
@@ -237,8 +260,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
+  assetBundleVariant: 

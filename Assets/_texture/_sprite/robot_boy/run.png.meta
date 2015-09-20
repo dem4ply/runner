@@ -1,28 +1,41 @@
 fileFormatVersion: 2
-guid: d40c191aa46654db7a426d6a1fa3aa30
+guid: 803baf1ea73913f46b25e07d0a79df22
+timeCreated: 1442720424
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: RobotBoyCrouch00
-    21300002: RobotBoyCrouch01
-    21300004: RobotBoyCrouch02
-    21300006: RobotBoyCrouch03
-    21300008: RobotBoyCrouch04
-    21300010: RobotBoyCrouch05
-    21300012: RobotBoyCrouch06
-    21300014: RobotBoyCrouch07
-    21300016: RobotBoyCrouch08
-    21300018: RobotBoyCrouch09
-    21300020: RobotBoyCrouch10
-    21300022: RobotBoyCrouch11
-    21300024: RobotBoyCrouch12
-    21300026: RobotBoyCrouch13
-    21300028: RobotBoyCrouch14
-    21300030: RobotBoyCrouch15
-    21300032: RobotBoyCrouch16
-    21300034: RobotBoyCrouch17
-    21300036: RobotBoyCrouch18
-    21300038: RobotBoyCrouch19
-    21300040: RobotBoyCrouch20
+    21300000: RobotBoyRun00
+    21300002: RobotBoyRun01
+    21300004: RobotBoyRun02
+    21300006: RobotBoyRun03
+    21300008: RobotBoyRun04
+    21300010: RobotBoyRun05
+    21300012: RobotBoyRun06
+    21300014: RobotBoyRun07
+    21300016: RobotBoyRun08
+    21300018: RobotBoyRun09
+    21300020: RobotBoyRun10
+    21300022: RobotBoyRun11
+    21300024: RobotBoyRun12
+    21300026: RobotBoyRun13
+    21300028: RobotBoyRun14
+    21300030: RobotBoyRun15
+    21300032: run_0
+    21300034: run_1
+    21300036: run_2
+    21300038: run_3
+    21300040: run_4
+    21300042: run_5
+    21300044: run_6
+    21300046: run_7
+    21300048: run_8
+    21300050: run_9
+    21300052: run_10
+    21300054: run_11
+    21300056: run_12
+    21300058: run_13
+    21300060: run_14
+    21300062: run_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -56,6 +69,7 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
@@ -70,21 +84,25 @@ TextureImporter:
     maxTextureSize: 1024
     textureFormat: -2
     compressionQuality: 100
+    allowsAlphaSplitting: 0
   - buildTarget: Android
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+    allowsAlphaSplitting: 0
   - buildTarget: BlackBerry
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+    allowsAlphaSplitting: 0
   - buildTarget: WP8
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+    allowsAlphaSplitting: 0
   spriteSheet:
     sprites:
-    - name: RobotBoyCrouch00
+    - name: run_0
       rect:
         serializedVersion: 2
         x: 0
@@ -92,9 +110,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch01
+    - name: run_1
       rect:
         serializedVersion: 2
         x: 275
@@ -102,9 +120,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch02
+    - name: run_2
       rect:
         serializedVersion: 2
         x: 550
@@ -112,9 +130,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch03
+    - name: run_3
       rect:
         serializedVersion: 2
         x: 825
@@ -122,9 +140,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch04
+    - name: run_4
       rect:
         serializedVersion: 2
         x: 1100
@@ -132,9 +150,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch05
+    - name: run_5
       rect:
         serializedVersion: 2
         x: 1375
@@ -142,9 +160,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch06
+    - name: run_6
       rect:
         serializedVersion: 2
         x: 1650
@@ -152,9 +170,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch07
+    - name: run_7
       rect:
         serializedVersion: 2
         x: 0
@@ -162,9 +180,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch08
+    - name: run_8
       rect:
         serializedVersion: 2
         x: 275
@@ -172,9 +190,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch09
+    - name: run_9
       rect:
         serializedVersion: 2
         x: 550
@@ -182,9 +200,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch10
+    - name: run_10
       rect:
         serializedVersion: 2
         x: 825
@@ -192,9 +210,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch11
+    - name: run_11
       rect:
         serializedVersion: 2
         x: 1100
@@ -202,9 +220,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch12
+    - name: run_12
       rect:
         serializedVersion: 2
         x: 1375
@@ -212,9 +230,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch13
+    - name: run_13
       rect:
         serializedVersion: 2
         x: 1650
@@ -222,9 +240,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch14
+    - name: run_14
       rect:
         serializedVersion: 2
         x: 0
@@ -232,9 +250,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch15
+    - name: run_15
       rect:
         serializedVersion: 2
         x: 275
@@ -242,58 +260,9 @@ TextureImporter:
         width: 275
         height: 275
       alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch16
-      rect:
-        serializedVersion: 2
-        x: 550
-        y: 1223
-        width: 275
-        height: 275
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch17
-      rect:
-        serializedVersion: 2
-        x: 825
-        y: 1223
-        width: 275
-        height: 275
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch18
-      rect:
-        serializedVersion: 2
-        x: 1100
-        y: 1223
-        width: 275
-        height: 275
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch19
-      rect:
-        serializedVersion: 2
-        x: 1375
-        y: 1223
-        width: 275
-        height: 275
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: RobotBoyCrouch20
-      rect:
-        serializedVersion: 2
-        x: 1650
-        y: 1223
-        width: 275
-        height: 275
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
+  assetBundleVariant: 
